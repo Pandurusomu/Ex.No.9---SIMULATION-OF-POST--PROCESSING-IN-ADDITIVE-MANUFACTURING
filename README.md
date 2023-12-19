@@ -59,8 +59,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Panduru somu
+### Register Number: 23005083
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
